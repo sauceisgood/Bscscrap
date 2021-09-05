@@ -8,7 +8,7 @@ import pickle
 import os
 
 url = "https://bscscan.com/tokentxns"
-telegram_token = ""
+telegram_token = "1982452342:AAGW2xrrpLCrAQspxsB-K5M8bYoX0Ws4RjQ"
 token_list = dict()
 
 def start_command(update,context):
